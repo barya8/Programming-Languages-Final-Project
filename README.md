@@ -23,3 +23,7 @@ To review the solutions:
 1. Open the wanted .py file to inspect the Python code solution.
 2. Refer to `Final_Project.pdf` for detailed explanations and discussions on the solutions.
 
+## Contact
+
+For any questions, feedback, or inquiries, please contact the project maintainers Barya8, and .
+
